@@ -3,4 +3,4 @@ Hello Github
 
 Hi! I'm Yot.
 
-I just wanna solve some big problems using what I've learned.
+I just wanna solve some big problems by using what I've learned.
